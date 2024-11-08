@@ -1,0 +1,74 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Their first clue was hidden behind the bank's old clock, where they found a note saying to fill in the empty blank.",
+    "fixed": ["2","×","7","=","14"],
+    "options":["14","÷","2","=",""],
+    "answers": ["14","÷","2","=","7"]
+
+  },
+  {
+    "questionNo": 2,
+    "question": "The second clue was tucked inside a flour bag at the bakery, and it asked them to fill in the empty blank.",
+    "fixed": ["3","×","4","=","12"],
+    "options":["12","÷","4","=",""],
+    "answers": ["12","÷","4","=","3"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "At the park, they discovered a note on the swings that said complete the statement by filling in the empty blank. ",
+    "fixed": ["4","×","4","=","16"],
+    "options":["16","÷","4","=",""],
+    "answers": ["16","÷","4","=","4"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Their next clue was to complete the division statement by filling in the missing blank.",
+    "fixed": ["4","×","6","=","24"],
+    "options":["24","÷","4","=",""],
+    "answers": ["24","÷","4","=","6"]
+  },
+  {
+    "questionNo": 5,
+    "question": "They found a clue inside a library book that told them to fill in the empty blank to complete division sentence.",
+    "fixed": ["3","×","9","=","27"],
+    "options":["27","÷","3","=",""],
+    "answers": ["27","÷","3","=","9"]
+  },
+  {
+    "questionNo": 6,
+    "question": "The next clue was hidden near the café's windows, asking them to complete the statement by filling in the empty blank.",
+    "fixed": ["6","×","10","=","60"],
+    "options":["60","÷","6","=",""],
+    "answers": ["60","÷","6","=","10"]
+  },
+  {
+    "questionNo": 7,
+    "question": "To reveal the next clue they had to complete the division statement by filling the empty blank.",
+    "fixed": ["9","×","1","=","9"],
+    "options":["9","÷","9","=",""],
+    "answers": ["9","÷","9","=","1"]
+  },
+  {
+    "questionNo": 8,
+    "question": "A clue hidden in a mailbox asked them to fill in the empty blank to complete the division sentence.",
+    "fixed": ["5","×","6","=","30"],
+    "options":["30","÷","6","=",""],
+    "answers": ["30","÷","6","=","5"]
+  },
+  {
+    "questionNo": 9,
+    "question": "Underneath a rock near the fountain, they found a note that said to  fill in the empty blank.",
+    "fixed": ["8","×","5","=","40"],
+    "options":["40","÷","8","=",""],
+    "answers": ["40","÷","8","=","5"]
+  },
+  {
+    "questionNo": 10,
+    "question": "Finally, they found a note on the back of a park bench that said to fill in the blank.",
+    "fixed": ["9","×","4","=","36"],
+    "options":["36","÷","4","=",""],
+    "answers": ["36","÷","4","=","9"]
+  }
+]
